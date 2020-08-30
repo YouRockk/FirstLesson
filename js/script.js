@@ -1,6 +1,2 @@
-let a = 15;
-console.log(a);
-
-const obj = {
-    a: 2
-};
+console.log(x);
+var x = 1;
